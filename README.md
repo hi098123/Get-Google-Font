@@ -1,4 +1,4 @@
-# Get-Google-Font
+# Get-Google-Fonts
 
 ## How To Use
 1. Edit "test.js" file variable ```url``` to download google cdn ```const url='...';```
